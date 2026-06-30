@@ -1,1 +1,1 @@
-console.log("este es el Taller de Git Colaborativo")
+console.log("git remote -v");
